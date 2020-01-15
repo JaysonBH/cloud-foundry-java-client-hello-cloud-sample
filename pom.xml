@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.vmware.tanzu.support</groupId>
 	<artifactId>cf-client-task-demo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>cf-client-task-demo</name>
 	<description>cf client demo 2020</description>
 
