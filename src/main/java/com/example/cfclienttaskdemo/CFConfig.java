@@ -1,4 +1,4 @@
-package com.vmware.tanzu.support.cfclienttaskdemo;
+package com.example.cfclienttaskdemo;
 
 import org.cloudfoundry.reactor.ConnectionContext;
 import org.cloudfoundry.reactor.DefaultConnectionContext;

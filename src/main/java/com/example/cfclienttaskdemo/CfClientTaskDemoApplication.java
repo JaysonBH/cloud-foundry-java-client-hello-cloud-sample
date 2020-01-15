@@ -1,4 +1,4 @@
-package com.vmware.tanzu.support.cfclienttaskdemo;
+package com.example.cfclienttaskdemo;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
